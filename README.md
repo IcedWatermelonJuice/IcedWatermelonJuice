@@ -1,4 +1,4 @@
-![FocusLab](https://raw.githubusercontent.com/IcedWatermelonJuice/P3MC/main/FocusLab_Logo.png)
+![FocusLab](./FocusLab_Logo.png)
 
 # 📑 Works
 * L. Xu *et al*., "P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification," *IEEE Internet of Things Journal*, Early Access, doi: 10.1109/JIOT.2025.3586923. [[Paper](https://ieeexplore.ieee.org/document/11073147)] [[Code](https://github.com/IcedWatermelonJuice/P3MC)]

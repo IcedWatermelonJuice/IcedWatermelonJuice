@@ -15,7 +15,7 @@ Communication Technology (ICCT)*, Wuxi, China, 2023, pp. 490-494, doi: 10.1109/I
 ## 🌍 Relative
 - My Academic Page: [https://my.xulai.work](https://my.xulai.work)
 - Another Code Repo: [https://cloud.xulai.work/Repo](https://cloud.xulai.work/Repo)
-- Our Lab's Other Projects: [https://github.com/BeechburgPieStar/LabCode](https://github.com/BeechburgPieStar/LabCode)
+- Our Lab's Other Projects: [https://github.com/focuslabcode/Code](https://github.com/focuslabcode/Code), [https://github.com/BeechburgPieStar/LabCode](https://github.com/BeechburgPieStar/LabCode)
 - Datasets: [https://cloud.xulai.work/Datasets](https://cloud.xulai.work/Datasets)
 
 ## 🏆 Contributions

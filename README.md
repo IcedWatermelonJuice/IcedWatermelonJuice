@@ -10,7 +10,7 @@ Networking*, vol. 11, no. 1, pp. 145-155, Feb. 2025, doi: 10.1109/TCCN.2024.3435
 Communication Technology (ICCT)*, Wuxi, China, 2023, pp. 490-494, doi: 10.1109/ICCT59356.2023.10419686. [[Paper](https://ieeexplore.ieee.org/document/10419686)] [[Code](https://github.com/IcedWatermelonJuice/FS-SEI/tree/main/Rotation-Feature-Decoupling)]
 
 ## 📧 Contact
-* E-mail: [1023010411@njupt.edu.cn](mailto:1023010411@njupt.edu.cn)
+* E-mail: [2025011313@njupt.edu.cn](mailto:2025011313@njupt.edu.cn)
 
 ## 🌍 Relative
 - My Academic Page: [https://my.xulai.work](https://my.xulai.work)

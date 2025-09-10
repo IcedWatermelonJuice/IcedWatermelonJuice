@@ -1,7 +1,7 @@
 ![FocusLab](./FocusLab_Logo.png)
 
 # 📑 Works
-* L. Xu *et al*., "P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification," *IEEE Internet of Things Journal*, Early Access, doi: 10.1109/JIOT.2025.3586923. [[Paper](https://ieeexplore.ieee.org/document/11073147)] [[Code](https://github.com/IcedWatermelonJuice/P3MC)]
+* L. Xu *et al*., "P3MC: Dual-Level Data Augmentation for Robust Few-Shot Specific Emitter Identification," *IEEE Internet of Things Journal*, vol. 12, no. 18, pp. 38668-38679, Sept. 2025, doi: 10.1109/JIOT.2025.3586923. [[Paper](https://ieeexplore.ieee.org/document/11073147)] [[Code](https://github.com/IcedWatermelonJuice/P3MC)]
 
 * L. Xu *et al*., "Enhanced Few-Shot Specific Emitter Identification via Phase Shift Prediction and Decoupling," *IEEE Transactions on Cognitive Communications and 
 Networking*, vol. 11, no. 1, pp. 145-155, Feb. 2025, doi: 10.1109/TCCN.2024.3435886. [[Paper](https://ieeexplore.ieee.org/document/10614374)] [[Code](https://github.com/IcedWatermelonJuice/FS-SEI/tree/main/PSPD)]

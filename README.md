@@ -19,5 +19,5 @@ Communication Technology (ICCT)*, Wuxi, China, 2023, pp. 490-494, doi: 10.1109/I
 - Datasets: [https://cloud.xulai.work/Datasets](https://cloud.xulai.work/Datasets)
 
 ## 🏆 Contributions
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcedWatermelonJuice&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats Extended](https://github-stats-extended.vercel.app/api?username=IcedWatermelonJuice&show_icons=true&theme=ambient_gradient)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended))
 
